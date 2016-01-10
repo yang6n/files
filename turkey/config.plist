@@ -11,8 +11,8 @@
 	</dict>
 	<key>unblockURLs</key>
 	<array>
-		<string>http://vv.video.qq.com/checktime</string>
-		<string>http://h5vv.video.qq.com/getinfo</string>
+		<string>http://h5vv.video.qq.com/</string>
+		<string>http://vv.video.qq.com/</string>
 	</array>
 	<key>blockURLs</key>
 	<array/>
