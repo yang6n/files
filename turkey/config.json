@@ -1,0 +1,11 @@
+{
+    "proxyServer": {
+        "ip": "122.89.29.58",
+        "port": 8118
+    },
+    "unblockURLs": [
+        "http://h5vv.video.qq.com/getinfo",
+        "http://vv.video.qq.com/checktime"
+    ],
+    "blockURLs": []
+}
