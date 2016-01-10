@@ -13,6 +13,9 @@
 	<array>
 		<string>http://h5vv.video.qq.com/</string>
 		<string>http://vv.video.qq.com/</string>
+		<string>cgi.video.qq.com/</string>
+		<string>data.video.qq.com/</string>
+		<string>isddpeed.qq.com/</string>
 	</array>
 	<key>blockURLs</key>
 	<array/>
