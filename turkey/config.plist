@@ -16,6 +16,11 @@
 		<string>cgi.video.qq.com/</string>
 		<string>data.video.qq.com/</string>
 		<string>isddpeed.qq.com/</string>
+		<string>v.qq.com/</string>
+		<string>pingjs.qq.com/</string>
+		<string>aq.qq.com/</string>
+		<string>qzs.qq.com/</string>
+		<string>pingforce.qq.com/</string>
 	</array>
 	<key>blockURLs</key>
 	<array/>
