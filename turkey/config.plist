@@ -21,6 +21,9 @@
 		<string>aq.qq.com/</string>
 		<string>qzs.qq.com/</string>
 		<string>pingforce.qq.com/</string>
+		<string>.wechatos.net/mmtest</string>
+		<string>mt.qq.com</string>
+		<string>pingjs.qq.com</string>
 	</array>
 	<key>blockURLs</key>
 	<array/>
