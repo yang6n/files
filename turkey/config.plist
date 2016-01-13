@@ -5,9 +5,9 @@
 	<key>proxyServer</key>
 	<dict>
 		<key>ip</key>
-		<string>115.183.28.6</string>
+		<string>122.193.14.110</string>
 		<key>port</key>
-		<integer>8118</integer>
+		<integer>80</integer>
 	</dict>
 	<key>unblockURLs</key>
 	<array>
