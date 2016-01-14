@@ -24,6 +24,10 @@
 		<string>.wechatos.net/mmtest</string>
 		<string>mt.qq.com</string>
 		<string>pingjs.qq.com</string>
+		<string>vv.video.qq.com/getvkey</string>
+		<string>video.qq.com/getvkey</string>
+		<string>video.qq.com/fcgi-bin/userip</string>
+		<string>i.y.qq.com/s.plcloud/fcgi-bin/p.fcg</string>
 	</array>
 	<key>blockURLs</key>
 	<array/>
