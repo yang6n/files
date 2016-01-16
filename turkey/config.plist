@@ -5,29 +5,14 @@
 	<key>proxyServer</key>
 	<dict>
 		<key>ip</key>
-		<string>121.69.23.134</string>
+		<string>122.193.14.108</string>
 		<key>port</key>
-		<integer>8118</integer>
+		<integer>80</integer>
 	</dict>
 	<key>unblockURLs</key>
 	<array>
 		<string>http://h5vv.video.qq.com/</string>
 		<string>http://vv.video.qq.com/</string>
-		<string>cgi.video.qq.com/</string>
-		<string>data.video.qq.com/</string>
-		<string>isddpeed.qq.com/</string>
-		<string>v.qq.com/</string>
-		<string>pingjs.qq.com/</string>
-		<string>aq.qq.com/</string>
-		<string>qzs.qq.com/</string>
-		<string>pingforce.qq.com/</string>
-		<string>.wechatos.net/mmtest</string>
-		<string>mt.qq.com</string>
-		<string>pingjs.qq.com</string>
-		<string>vv.video.qq.com/getvkey</string>
-		<string>video.qq.com/getvkey</string>
-		<string>video.qq.com/fcgi-bin/userip</string>
-		<string>i.y.qq.com/s.plcloud/fcgi-bin/p.fcg</string>
 	</array>
 	<key>blockURLs</key>
 	<array/>
